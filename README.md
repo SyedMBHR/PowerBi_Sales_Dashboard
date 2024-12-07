@@ -36,4 +36,4 @@ The primary goal of this dashboard is to provide an intuitive and user-friendly 
 
 
 
-## DON'T FOREGET TO LEAVE A STAR 
+## DON'T FORGET TO LEAVE A STAR 
